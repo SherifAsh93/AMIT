@@ -1,0 +1,15 @@
+code contribute: Easy to share ur Code with other, and track changes, who do so for each code
+
+version control (vs): control the whole code, Who Do So and When and in which line of code
+Centralized Version Control: For Security Purpose => who will can access the code,
+but all developers need to code in the same place (the same lan)
+
+Distriputed Version Control: allow many Developers to work anywhere from any Network, it gives me Backups
+Repo = Reposotry => code folder for all projects
+
+
+git add css/ => to add the whole folder
+
+git commit -m "Dev_Env" => to initializr ur environment locally, after initialization of ur name and email
+git config --global user.name "sherif"
+git config --global user.email "sherif.ash93@gmail.com"
